@@ -1,0 +1,143 @@
+.paper-css {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  padding-top: 2px !important;
+  padding-bottom: 10px !important;
+  margin-bottom: 20px !important;
+}
+
+.paper-css-1 {
+  background-color: rgb(49, 48, 48) !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  padding-top: 2px !important;
+  padding-bottom: 10px !important;
+  color: white !important;
+  height: 670px !important;
+}
+
+.paper-date {
+  background-color: white !important;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  padding-top: 5px !important;
+  padding-bottom: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.grid-tang-truong {
+  height: 40px !important;
+  background-color: black !important;
+  border-radius: 7px !important;
+  margin-bottom: 10px !important;
+}
+
+.grid-tang-truong-data {
+  display: flex !important;
+  align-items: center !important;
+  padding-left: 7px !important;
+}
+
+.chip-css {
+  color: white !important;
+  width: 100% !important;
+  background-color: black !important;
+  margin-bottom: 10px !important;
+}
+
+.icon-css-dashboarh {
+  color: white !important;
+}
+
+.icon-up-css {
+  color: #00ff00 !important;
+  margin-right: 5px !important;
+}
+
+.icon-down-css {
+  color: #ff0000 !important;
+  margin-right: 5px !important;
+}
+
+.typography-css {
+  text-align: center !important;
+}
+
+.button-css {
+  margin-right: 10px !important;
+  text-align: center !important;
+  justify-content: center !important;
+  margin-bottom: 20px !important;
+}
+
+.button-css:hover {
+  background-color: #f26b16 !important;
+  color: white !important;
+}
+
+.table-css {
+  background-color: white !important;
+  border-radius: 10px !important;
+  /* width: 100% !important; */
+  height: 410px !important;
+}
+
+.table-css .MuiTableHead-root .MuiTableRow-root > th {
+  background-color: #f26b16 !important;
+  color: rgb(255, 255, 255) !important;
+  font-weight: 600 !important;
+}
+
+.stack-css {
+  background-color: white !important;
+  height: 40px !important;
+  display: flex !important;
+  align-items: center !important;
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  border-radius: 4px !important;
+}
+
+.legend-container li {
+  width: 50%;
+}
+
+.button-reload-css {
+  background-color: white !important;
+  min-width: 40px !important;
+}
+
+.button-reload-css:hover {
+  background-color: rgb(182, 174, 174) !important;
+}
+
+.button-reload-css .MuiSvgIcon-root {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.grid-date-dashboard {
+  border-radius: 4px !important;
+  display: flex !important;
+  align-items: center !important;
+  height: 60px !important;
+}
+
+.dateTime-dashboard fieldset {
+  border-radius: 8px !important;
+  margin-right: 10px !important;
+}
+
+.dateTime-dashboard:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.dateTime-dashboard .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 0.3em !important;
+}
+
+.dateTime-dashboard .css-gaq2pr-MuiFormLabel-root-MuiInputLabel-root {
+  line-height: 0.5em !important;
+  padding-top: 3px !important;
+  padding-bottom: 10px !important;
+}

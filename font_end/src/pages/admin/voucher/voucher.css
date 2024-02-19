@@ -1,0 +1,191 @@
+.voucher-css .MuiPaper-root {
+  padding: 2% !important;
+}
+
+.voucher-css td {
+  height: 0 !important;
+  font-size: 14px !important;
+}
+
+.voucher-css .filter fieldset {
+  border: none !important;
+}
+
+.voucher-css .filter .MuiInputBase-root .MuiSelect-select {
+  color: #fc7c27 !important;
+}
+
+.voucher-css .icon-css {
+  font-size: 25px !important;
+}
+
+.voucher-css .icon-css:active {
+  box-shadow: none !important;
+}
+
+.voucher-css .icon-css:hover {
+  box-shadow: none !important;
+}
+
+.voucher-css .MuiButton-root {
+  float: right !important;
+  border-radius: 8px !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+}
+
+.voucher-css .MuiButton-root:active {
+  box-shadow: none !important;
+}
+
+.voucher-css .MuiButton-root:hover {
+  box-shadow: none !important;
+}
+
+.voucher-css p {
+  text-align: center !important;
+}
+
+.voucher-css .dateTime fieldset {
+  border-radius: 8px !important;
+}
+
+.voucher-css .dateTime:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.dateTime .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 0.6em !important;
+}
+.dateTime .css-gaq2pr-MuiFormLabel-root-MuiInputLabel-root {
+  line-height: 0.6em !important;
+  padding-top: 2px !important;
+  padding-bottom: 14px !important;
+}
+
+.voucher-css .search-voucher fieldset {
+  border-radius: 8px !important;
+}
+
+.voucher-css .search-voucher:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.chip-sap-hoat-dong {
+  border: 1px solid #d9d9d9 !important;
+  color: #900d9e !important;
+  background: #f8edf6 !important;
+  border-color: #eca9e2 !important;
+  width: 100px !important;
+}
+
+.chip-tat-ca {
+  border: 1px solid #d9d9d9 !important;
+  color: #900d9e !important;
+  background: #f8edf6 !important;
+  border-color: #eca9e2 !important;
+  width: 100px !important;
+}
+.chip-gioi-han {
+  border: 1px solid #d9d9d9 !important;
+  color: #5a7edb !important;
+  background: #f0f6fa !important;
+  border-color: #28b3e1 !important;
+  width: 100px !important;
+}
+
+.chip-hoat-dong {
+  border: 1px solid #d9d9d9 !important;
+  color: #389e0d !important;
+  background: #f0ffe2 !important;
+  border-color: #b7eb8f !important;
+  width: 100px !important;
+}
+
+.chip-khong-hoat-dong {
+  border: 1px solid #d9d9d9 !important;
+  color: #e41627 !important;
+  background: #fff1f0 !important;
+  border-color: #fd9690 !important;
+  width: 100px !important;
+}
+
+/*---------------------------------------------------------- ADD ----------------------------------------------------------*/
+/* .voucher-add p {
+  text-align: center;
+} */
+/* .voucher-add .MuiPaper-root {
+  margin-top: 2;
+  margin-bottom: 2;
+  padding: 1;
+} */
+/* .voucher-add .MuiPaper-root .MuiGrid-root {
+  margin-bottom: 3;
+} */
+
+.voucher-add .css-1qcnqou-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #c25e1c !important;
+}
+
+.voucher-add .error {
+  color: red !important;
+  font-size: 12px !important;
+}
+
+.voucher-add .icons-css {
+  font-size: 25px !important;
+}
+
+.voucher-add .input-css fieldset {
+  border-radius: 8px !important;
+}
+
+.voucher-add .input-css:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.voucher-add .dateTime fieldset {
+  border-radius: 8px !important;
+}
+
+.voucher-add .dateTime:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.voucher-add .typeAdd fieldset {
+  background-color: #fc7c27 !important;
+}
+
+.voucher-add .search-customer-voucher:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+/*---------------------------------------------------------- DETAIL ----------------------------------------------------------*/
+.voucher-detail .icons-css {
+  font-size: 25px !important;
+}
+
+.voucher-detail .input-css fieldset {
+  border-radius: 8px !important;
+}
+
+.voucher-detail .input-css:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.voucher-detail .dateTime fieldset {
+  border-radius: 8px !important;
+}
+
+.voucher-detail .dateTime:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.voucher-detail .css-1qcnqou-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #c25e1c !important;
+}
+
+.voucher-detail .error {
+  color: red !important;
+  font-size: 12px !important;
+}

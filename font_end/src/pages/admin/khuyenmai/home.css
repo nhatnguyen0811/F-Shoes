@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Noto+Sans+NKo+Unjoined:wght@600&family=Roboto:ital,wght@0,500;1,700&display=swap');
+
+.title-chi-tiet-san-pham {
+  font-size: 50px;
+  margin-bottom: 20px;
+  margin-top: 3;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Noto Sans NKo Unjoined', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.dateTimePro .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 0.6em !important;
+}
+.dateTimePro .css-gaq2pr-MuiFormLabel-root-MuiInputLabel-root {
+  line-height: 0.6em !important;
+  padding-top: 2px;
+  padding-bottom: 14px !important;
+}
+
+.promotion .css-1wexrzr-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 8px !important;
+}
+
+.promotionAdd .css-1wexrzr-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 8px !important;
+}
+.promotionUpdate .css-1wexrzr-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 8px !important;
+}
+
+.promotion .css-a643pv-MuiStack-root {
+  padding-top: 5px !important;
+}
+.promotion .css-x6y40x-MuiFormLabel-root-MuiInputLabel-root.Mui-error {
+  padding-top: 30px !important;
+}
+.timeStartAdd .css-gaq2pr-MuiFormLabel-root-MuiInputLabel-root {
+  line-height: 0.6em !important;
+  padding-top: 2px;
+  padding-bottom: 14px !important;
+}
+.chip-sap-hoat-dong {
+  border: 1px solid #d9d9d9 !important;
+  color: #900d9e !important;
+  background: #f8edf6 !important;
+  border-color: #eca9e2 !important;
+}
+.promotionAdd .error {
+  color: red;
+  font-size: 13px;
+}
+.promotionUpdate .error {
+  color: red;
+  font-size: 13px;
+}
+
+.chip-tat-ca {
+  border: 1px solid #d9d9d9 !important;
+  color: #cd853f !important;
+  background: #e8e8e8 !important;
+  border-color: #cd853f !important;
+}
+.chip-gioi-han {
+  border: 1px solid #d9d9d9 !important;
+  color: #5a7edb !important;
+  background: #f0f6fa !important;
+  border-color: #28b3e1 !important;
+}
+.promotion .text-field-css .MuiInputBase-root {
+  border-radius: 8px !important;
+}
+.promotion .text-field-css .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}
+
+.promotionAdd .text-field-css .MuiInputBase-root {
+  border-radius: 8px !important;
+}
+.promotionAdd .text-field-css .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}
+
+.promotionUpdate .text-field-css .MuiInputBase-root {
+  border-radius: 8px !important;
+}
+.promotionUpdate .text-field-css .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}
+
+.promotionAdd .dateTimePro .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}
+
+.promotionUpdate .dateTimePro .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}
+
+.promotion .dateTimePro .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}
+.pro .promotion .menuItem {
+  border: none;
+}
+.promotion .filter .MuiSelect-select {
+  padding-left: 8px;
+  color: #fc7c27;
+  font-weight: 500;
+}
+
+.promotion .filter fieldset {
+  border: none !important;
+}

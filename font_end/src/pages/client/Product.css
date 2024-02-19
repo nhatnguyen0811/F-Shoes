@@ -1,0 +1,141 @@
+.list-product-portfolio {
+  width: 100% !important;
+  max-width: 360px !important;
+  background-color: 'background.paper' !important;
+  padding-left: 1 !important;
+  padding-top: 0 !important;
+}
+
+.list-product-portfolio .text-portfolio .custom-primary {
+  font-size: 24px !important;
+  font-weight: 700 !important;
+  /* font-family: monospace !important; */
+}
+
+.list-product-portfolio .list-item {
+  display: flex !important;
+  align-items: center !important;
+  max-width: 88% !important;
+}
+
+.list-product-portfolio .list-item-button {
+  display: flex !important;
+  align-items: center !important;
+  max-width: 95% !important;
+}
+
+.list-product-portfolio .collapse-portfolio {
+  display: flex !important;
+  align-items: center !important;
+  max-width: 90% !important;
+  margin-top: 20px !important;
+}
+
+.list-product-portfolio .list-item-button .icon-portfolio {
+  margin-right: 16px !important;
+}
+
+.list-product-portfolio .slider-portfolio {
+  max-width: 90% !important;
+  color: #f2741f;
+}
+
+.container-portfolio .grid-drawer-portfolio {
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  margin-top: 1rem;
+}
+
+.container-portfolio .drawer-portfolio {
+  min-width: 200px !important;
+}
+
+.container-portfolio .stack-filter-portfolio {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0;
+  margin-top: 1rem;
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 0;
+}
+
+.container-portfolio .stack-filter-portfolio .stack-input-filter {
+  width: 50% !important;
+}
+
+/* .container-portfolio .stack-filter-portfolio .stack-input-filter fieldset {
+  border-radius: 8px !important;
+} */
+
+.container-portfolio .stack-filter-portfolio .stack-input-filter:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.container-portfolio .stack-filter-portfolio .stack-typography-portfolio {
+  margin-top: 0.5rem;
+}
+
+.container-portfolio .stack-filter-portfolio .stack-sort-portfolio {
+  height: 25px;
+  margin-left: 0.5rem;
+}
+
+.container-portfolio .stack-product-portfolio {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0;
+  margin-top: 2rem;
+}
+
+.container-portfolio .stack-product-portfolio .stack-typography-portfolio {
+  margin-bottom: 0.5rem;
+}
+
+.container-portfolio .stack-product-portfolio .stack-select-portfolio {
+  height: 25px;
+  margin-left: 0.5rem;
+}
+
+.container-portfolio .menubar-portfolio {
+  overflow: auto;
+  overflow-y: auto;
+  scrollbar-width: 0px;
+  -ms-overflow-style: none;
+  padding-left: 10px;
+  max-height: 40rem !important;
+}
+
+.cart-product-portfolio {
+  overflow: auto;
+  max-height: 1000px;
+  position: relative;
+}
+
+.cart-product-portfolio::-webkit-scrollbar {
+  width: 0px !important;
+}
+
+.radio-color {
+  border-radius: 50% !important;
+  width: 32px !important;
+  height: 32px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.cart-icon-container {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.list-product-portfolio .MuiButtonBase-root {
+  padding: 0 16px !important;
+}
+.list-product-portfolio .MuiButtonBase-root:hover {
+  background-color: #f9f9f6 !important;
+}

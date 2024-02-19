@@ -1,0 +1,11 @@
+.title-news {
+  font-weight: 1000;
+  margin-bottom: 30px;
+}
+.latest-news {
+  font-size: 20px;
+}
+.news .MuiContainer-root {
+  padding-left: 120px !important;
+  padding-right: 120px !important;
+}

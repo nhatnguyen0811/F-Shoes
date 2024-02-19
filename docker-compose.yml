@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+  # Container cho ứng dụng Spring Boot
+  springboot-app:
+    build:
+      context: ./back_end/.
+      dockerfile: Dockerfile
+    container_name: springboot-container
+    volumes:
+      - ./logs:/app/logs
+
+  # Container cho ứng dụng ReactJS
+  react-app:
+    build:
+      context: ./font_end/.
+      dockerfile: Dockerfile
+    container_name: react-container
+    ports:
+      - "3000:80"

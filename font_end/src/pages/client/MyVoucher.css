@@ -1,0 +1,135 @@
+.icon-button-close-my-voucher {
+  box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.05) !important;
+}
+
+.grid-apply-modal-voucher-my-voucher {
+  margin-top: 8px !important;
+  margin-left: 16px !important;
+  margin-right: 16px !important;
+  display: 'flex' !important;
+  align-items: 'center' !important;
+}
+
+.text-field-apply-modal-voucher-my-voucher {
+  flex: 8px !important;
+  min-width: 100px !important;
+  width: 78% !important;
+}
+
+.button-apply-modal-voucher-my-voucher {
+  margin-left: 10px !important;
+  /* margin-right: 16px !important; */
+  width: 20% !important;
+}
+
+.data-radio-group-modal-voucher-my-voucher {
+  overflow: auto;
+  overflow-y: auto;
+  scrollbar-width: 0px;
+  -ms-overflow-style: none;
+  /* padding-left: 10px; */
+  max-height: 495px !important;
+}
+
+.data-radio-group-modal-voucher-detail-my-voucher {
+  overflow: auto;
+  overflow-y: auto;
+  scrollbar-width: 0px;
+  -ms-overflow-style: none;
+  /* padding-left: 10px; */
+  max-height: 410px !important;
+}
+
+.grid-radio-group-modal-voucher-my-voucher {
+  margin-top: 8px !important;
+  display: flex !important;
+  align-items: center !important;
+  height: 100px !important;
+  width: 100% !important;
+  border: 3px solid #f2741f !important;
+  border-radius: 10px !important;
+}
+
+.grid-name-voucher-my-voucher {
+  background-image: url('../../assets/image/logoweb.png') !important;
+  background-size: 180px !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  padding: 100px !important;
+}
+
+.grid-information-voucher-my-voucher {
+  height: 100% !important;
+  padding: 16px !important;
+  border-left: 5px solid #f2741f !important;
+  border-radius: 90px !important;
+  font-weight: 600 !important;
+}
+
+.icon-button-close-my-voucher {
+  box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.05) !important;
+}
+
+.grid-apply-modal-voucher-my-voucher {
+  margin-top: 8px !important;
+  margin-left: 16px !important;
+  margin-right: 16px !important;
+  display: 'flex' !important;
+  align-items: 'center' !important;
+}
+
+.text-field-apply-modal-voucher-my-voucher {
+  flex: 8px !important;
+  min-width: 100px !important;
+  width: 78% !important;
+}
+
+.button-apply-modal-voucher-my-voucher {
+  margin-left: 10px !important;
+  /* margin-right: 16px !important; */
+  width: 20% !important;
+}
+
+.data-radio-group-modal-voucher-my-voucher {
+  overflow: auto;
+  overflow-y: auto;
+  scrollbar-width: 0px;
+  -ms-overflow-style: none;
+  /* padding-left: 10px; */
+  max-height: 495px !important;
+}
+
+.data-radio-group-modal-voucher-detail-my-voucher {
+  overflow: auto;
+  overflow-y: auto;
+  scrollbar-width: 0px;
+  -ms-overflow-style: none;
+  /* padding-left: 10px; */
+  max-height: 410px !important;
+}
+
+.grid-radio-group-modal-voucher-my-voucher {
+  margin-top: 8px !important;
+  display: flex !important;
+  align-items: center !important;
+  height: 100px !important;
+  width: 100% !important;
+  border: 3px solid #f2741f !important;
+  border-radius: 10px !important;
+}
+
+.grid-name-voucher-my-voucher {
+  background-image: url('../../assets/image/logoweb.png') !important;
+  background-size: 100px !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  padding: 30px !important;
+}
+
+.grid-information-voucher-my-voucher {
+  height: 100% !important;
+  padding: 12px !important;
+  border-left: 5px solid #f2741f !important;
+  border-radius: 90px !important;
+  font-weight: 600 !important;
+}

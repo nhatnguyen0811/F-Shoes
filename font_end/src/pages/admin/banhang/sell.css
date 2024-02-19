@@ -1,0 +1,42 @@
+.promotion-price {
+  text-decoration: line-through;
+  opacity: 0.6;
+  color: black;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: orange;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f0f0f0;
+}
+
+.modal-voucher .modal-voucher-container-filter .filter-voucher fieldset {
+  border: none !important;
+}
+
+.modal-voucher
+  .modal-voucher-container-filter
+  .filter-voucher
+  .MuiInputBase-root
+  .MuiSelect-select {
+  color: #fc7c27 !important;
+}
+.css-table-sell .MuiTableCell-root {
+  padding: 10px !important;
+}
+.css-table-sell {
+  margin-top: 20px;
+}
+.input-voucher-sell .MuiInputBase-root {
+  padding-right: 0 !important;
+}
+.notification-add-voucher {
+  color: red !important;
+  font-size: 13px !important;
+}

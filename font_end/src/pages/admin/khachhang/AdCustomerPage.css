@@ -1,0 +1,66 @@
+.custom-accordion {
+  margin: 2px;
+}
+.custom-accordion-header {
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  border-bottom: 1px solid #c0c0c0;
+}
+
+.custom-accordion-header .MuiTypography-root {
+  font-size: 10px;
+  margin-bottom: 2px;
+}
+
+.custom-accordion-header .MuiSvgIcon-root {
+  margin-right: 2px;
+  order: -1; /* Đảm bảo mũi tên nằm bên trái */
+}
+.star-icon .MuiIconButton-root {
+  margin-left: auto; /* Đẩy biểu tượng ngôi sao về bên phải */
+  float: left;
+}
+
+.css-1num9ec-MuiTableRow-root {
+  background-color: #f2721e;
+}
+
+.accordion-content {
+  display: flex;
+  flex-direction: column-reverse; /* Đảm bảo mũi tên nằm bên trái và các dòng text xuống dòng */
+}
+
+.khachhang .filter .MuiSelect-select {
+  padding-left: 8px;
+  color: #fc7c27;
+  font-weight: 500;
+}
+
+.khachhang .filter fieldset {
+  border: none !important;
+}
+/* .MuiButtonBase-root
+  MuiAccordionSummary-root
+  MuiAccordionSummary-gutters
+  custom-accordion-header
+  css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root {
+  background-color: gray;
+} */
+
+.khachhang .MuiButton-root {
+  border-radius: 8px !important;
+  text-transform: none !important;
+  box-shadow: none;
+}
+
+.khachhang .MuiButton-root:active {
+  box-shadow: none;
+}
+
+.khachhang .MuiButton-root:hover {
+  box-shadow: none;
+}
+.khachhang .search-field .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}

@@ -1,0 +1,74 @@
+.ck-tong-tien {
+  font-size: x-large;
+}
+
+.ck-phi {
+  font-size: 14px;
+}
+.pay {
+  display: flex;
+}
+
+.ck-pttt {
+  border-top: none;
+  height: 70px;
+  width: 300px;
+  border: 1px solid dimgrey;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-right: 30px;
+}
+
+.image-ck {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.quantity-badge {
+  position: absolute;
+  background-color: orange;
+  color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 10px;
+  margin-top: -95px;
+  margin-left: 78px;
+}
+.checkout-info-label {
+  font-size: 19px !important;
+  font-weight: 700;
+}
+.button-lbtt {
+  margin-bottom: 20px !important;
+}
+.detail-checkout {
+  background-color: rgba(249, 249, 246, 0.985);
+}
+
+.ck-pttt label {
+  display: flex;
+  align-items: center;
+}
+
+.ck-pttt.Mui-selected {
+  background-color: lightyellow;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.input-voucher .MuiInputBase-root {
+  padding-right: 0 !important;
+}
+.check-out .MuiContainer-root {
+  padding-left: 140px !important;
+  padding-right: 140px !important;
+}

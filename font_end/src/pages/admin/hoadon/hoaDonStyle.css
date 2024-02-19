@@ -1,0 +1,184 @@
+.hoa-don .chip-khach-le {
+  background-color: #f0ffe2 !important;
+  color: #389e0d !important;
+  border: 1px solid #b7eb8f !important;
+}
+
+.hoa-don .chip-giao-hang {
+  border: 1px solid blue !important;
+  color: blue !important;
+  background: rgb(223, 223, 244) !important;
+  border-color: blue !important;
+}
+
+.hoa-don .chip-tai-quay {
+  border: 1px solid green !important;
+  color: green !important;
+  background: rgb(222, 231, 222) !important;
+  border-color: green !important;
+}
+
+.hoa-don .chip-da-huy {
+  border: 1px solid rgb(23, 150, 23) !important;
+  color: rgb(23, 150, 23) !important;
+  background: rgb(224, 246, 224) !important;
+  border-color: rgb(23, 150, 23) !important;
+}
+
+.hoa-don .chip-cho-xac-nhan {
+  border: 1px solid rgb(250, 239, 90) !important;
+  color: gold !important;
+  background: rgb(246, 243, 228) !important;
+  border-color: gold !important;
+}
+
+.hoa-don .chip-da-xac-nhan {
+  border: 1px solid orange !important;
+  color: orange !important;
+  background: rgb(245, 237, 222) !important;
+  border-color: orange !important;
+}
+
+.hoa-don .chip-dang-van-chuyen {
+  border: 1px solid #ff4500 !important;
+  color: #ff4500 !important;
+  background: #f6dbd2 !important;
+  border-color: #ff4500 !important;
+}
+
+.hoa-don .chip-da-giao-hang {
+  border: 1px solid red !important;
+  color: red !important;
+  background: rgb(239, 204, 204) !important;
+  border-color: red !important;
+}
+
+.hoa-don .chip-da-thanh-toan {
+  border: 1px solid magenta !important;
+  color: magenta !important;
+  background: rgb(239, 201, 239) !important;
+  border-color: magenta !important;
+}
+
+.hoa-don .chip-cho-thanh-toan {
+  border: 1px solid #2f54eb !important;
+  color: #2f54eb !important;
+  background: #c0c9eb !important;
+  border-color: #2f54eb !important;
+}
+
+.hoa-don .chip-hoan-thanh {
+  border: 1px solid #ff00ff !important;
+  color: #ff00ff !important;
+  background: #f5d7f5 !important;
+  border-color: #ff00ff !important;
+}
+
+.hoa-don .billDetailInfo {
+  font-size: 14px;
+}
+
+.hoa-don .filter .MuiSelect-select {
+  padding-left: 8px;
+  color: #fc7c27;
+  font-weight: 500;
+}
+
+.hoa-don .filter fieldset {
+  border: none !important;
+}
+
+.hoa-don .chip-tien-mat {
+  border: 1px solid orange !important;
+  color: orange !important;
+  background: rgb(245, 237, 222) !important;
+  border-color: orange !important;
+}
+
+.hoa-don .chip-chuyen-khoan {
+  border: 1px solid orange !important;
+  color: orange !important;
+  background: rgb(245, 237, 222) !important;
+  border-color: orange !important;
+}
+
+.hoa-don .chip-thanh-toan {
+  border: 1px solid blue !important;
+  color: blue !important;
+  background: rgb(223, 223, 244) !important;
+  border-color: blue !important;
+}
+
+.hoa-don .chip-hoan-tien {
+  border: 1px solid green !important;
+  color: green !important;
+  background: rgb(222, 231, 222) !important;
+  border-color: green !important;
+}
+
+.hoa-don .table-container-custom-scrollbar::-webkit-scrollbar {
+  width: 3px !important;
+}
+
+.hoa-don .table-container-custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #fc7c27 !important;
+}
+
+.hoa-don .table-container-custom-scrollbar::-webkit-scrollbar-button {
+  display: none !important;
+}
+
+.hoa-don .time-line .scrollbar-container {
+  overflow-x: auto;
+}
+
+.hoa-don .time-line .scrollbar-container::-webkit-scrollbar {
+  width: 3px !important;
+  height: 10px !important;
+}
+
+/* Thiết lập màu thanh cuộn */
+.hoa-don .time-line .scrollbar-container::-webkit-scrollbar-thumb {
+  background-color: rgb(206, 206, 206) !important;
+}
+
+/* Thiết lập phần cuối cùng của thanh cuộn */
+.hoa-don .time-line .scrollbar-container::-webkit-scrollbar-button {
+  display: none !important;
+}
+
+.hoa-don .time-line {
+  padding-right: 8px;
+}
+
+.hoa-don .dateTime .css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  height: 0.6em !important;
+}
+.hoa-don .dateTime .css-gaq2pr-MuiFormLabel-root-MuiInputLabel-root {
+  line-height: 0.6em !important;
+  padding-top: 2px !important;
+  padding-bottom: 14px !important;
+}
+
+.dateTime fieldset {
+  border-radius: 8px !important;
+}
+
+.dateTime:hover fieldset {
+  border-color: #fc7c27 !important;
+}
+
+.hoa-don .MuiButton-root {
+  border-radius: 8px !important;
+  text-transform: none !important;
+  box-shadow: none;
+}
+.hoa-don .search-field .MuiOutlinedInput-notchedOutline {
+  border-radius: 8px !important;
+}
+.hoa-don .search-field:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #fc7c27 !important;
+}
+.hoa-don .tabSttHD .MuiTab-label {
+  text-transform: lowercase !important;
+}

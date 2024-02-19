@@ -1,0 +1,30 @@
+.table-gia {
+  padding: 0 !important;
+}
+
+.table-custom {
+  padding: 0 !important;
+  padding-left: 0 !important;
+}
+
+.delete-product-cart {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: orange;
+  color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+.cart .MuiContainer-root {
+  padding-left: 100px !important;
+  padding-right: 100px !important;
+}

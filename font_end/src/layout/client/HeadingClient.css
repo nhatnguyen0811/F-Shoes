@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Noto+Sans+NKo+Unjoined:wght@600&family=Oswald&family=Roboto:ital,wght@0,500;1,700&display=swap');
+
+.footer {
+  background-image: url('../../assets/image/TinTuc/banner_footer.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer .MuiGrid-item {
+  padding-top: 20px !important;
+}
+
+.css-hyum1k-MuiToolbar-root {
+  min-height: 80px !important;
+}
+
+.text-field-css .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}
+
+.css-6ah90r {
+  align-items: center;
+
+  display: flex;
+}
+
+.footerTitle {
+  font-weight: 1000 !important;
+  font-size: 20px !important;
+  margin-bottom: 10px !important;
+
+  color: rgb(255, 200, 0);
+}
+
+.active-link {
+  color: #f2741f;
+  text-align: center;
+}
+
+.title-footer {
+  font-weight: 1000 !important;
+}
+
+.phoneNumber {
+  color: blue;
+  font-weight: 700 !important;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.text-footer {
+  margin-top: 6px !important;
+  font-size: 16px !important;
+  text-decoration: none;
+  color: black;
+  color: white;
+}
+
+.img-contact {
+  width: 15% !important;
+  margin-right: 16px !important;
+}
+
+.link-with-underline {
+  position: relative;
+  text-decoration: none;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'Noto Sans NKo Unjoined', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+}
+
+.menu-title {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-list {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-list-item {
+  margin-right: 20px;
+  /* Adjust spacing between menu items */
+}
+
+.menu-title .MuiTypography-root.active-link {
+  color: black;
+  text-align: center;
+}
+
+.menu-title .MuiTypography-root:hover {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.menu-title .MuiTypography-root {
+  position: relative;
+  text-decoration: none;
+  font-family: 'IBM Plex Sans', 'Noto Sans NKo Unjoined', 'Oswald', 'Roboto', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  margin-left: 32px;
+  transition: color 0.3s ease-in-out;
+}
+
+.menu-title .MuiTypography-root::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  width: 100%;
+  height: 2px;
+  background-color: black;
+  transform: scaleX(0);
+  transform-origin: 0% 100%;
+  transition: transform 0.3s ease-in-out;
+}
+
+.menu-title .MuiTypography-root:hover::after,
+.menu-title .MuiTypography-root.active-link::after {
+  transform: scaleX(1);
+}
+
+.gird-footer {
+  margin-top: 96px;
+  color: white;
+}
+
+.footer .MuiGrid-root {
+  width: calc(100% + 96px);
+  color: white;
+}
+
+.search-product-home .MuiInputBase-root {
+  border-radius: 30px !important;
+  height: 55px;
+  border: 2px solid black;
+}

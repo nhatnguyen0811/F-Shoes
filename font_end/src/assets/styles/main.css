@@ -1,0 +1,179 @@
+/* Font size */
+.text-xs {
+  font-size: 0.75rem !important;
+}
+
+.text-sm {
+  font-size: 0.875rem !important;
+}
+
+.text-base {
+  font-size: 1rem !important;
+}
+
+.text-lg {
+  font-size: 1.125rem !important;
+}
+
+.text-xl {
+  font-size: 1.25rem !important;
+}
+
+/* Font weight */
+.font-normal {
+  font-weight: normal !important;
+}
+
+.font-bold {
+  font-weight: bold !important;
+}
+
+/* Text color */
+.text-white {
+  color: #fff !important;
+}
+
+.text-black {
+  color: #000 !important;
+}
+
+.text-red {
+  color: #ff0000 !important;
+}
+
+
+/* Background color */
+.bg-white {
+  background-color: #fff !important;
+}
+
+.bg-black {
+  background-color: #000 !important;
+}
+
+/* sweet2 */
+.swal2-container {
+  z-index: 3000;
+}
+
+.bg-red {
+  background-color: #ff0000 !important;
+}
+
+/* ... and so on for other colors */
+
+/* Margin */
+.m-1 {
+  margin: 0.25rem !important;
+}
+
+.m-2 {
+  margin: 0.5rem !important;
+}
+
+.m-4 {
+  margin: 1rem !important;
+}
+
+.m-8 {
+  margin: 2rem !important;
+}
+
+.mt-1 {
+  margin-top: 0.25rem !important;
+}
+
+.mt-2 {
+  margin-top: 0.5rem !important;
+}
+
+.mt-3 {
+  margin-top: 0.75rem !important;
+}
+
+.mb-3 {
+  margin-bottom: 0.75rem !important;
+}
+
+.mt-4 {
+  margin-top: 1rem !important;
+}
+
+.mt-5 {
+  margin-top: 1.25rem !important;
+}
+
+.mt-6 {
+  margin-top: 1.5rem !important;
+}
+
+.mt-8 {
+  margin-top: 2rem !important;
+}
+
+/* ... and so on for other margin values */
+
+/* Padding */
+.p-1 {
+  padding: 0.25rem !important;
+}
+
+.p-2 {
+  padding: 0.5rem !important;
+}
+
+.p-4 {
+  padding: 1rem !important;
+}
+
+/* ... and so on for other padding values */
+
+/* Flexbox */
+.flex {
+  display: flex !important;
+}
+
+.inline-flex {
+  display: inline-flex !important;
+}
+
+.flex-row {
+  flex-direction: row !important;
+}
+
+.flex-col {
+  flex-direction: column !important;
+}
+
+.items-center {
+  align-items: center !important;
+}
+
+.justify-center {
+  justify-content: center !important;
+}
+
+body {
+  overflow-x: hidden !important;
+}
+
+/* body */
+/* Thiết lập thanh cuộn trong tài liệu */
+body::-webkit-scrollbar {
+  width: 3px !important;
+  /* Độ rộng thanh cuộn */
+}
+
+/* Thiết lập màu thanh cuộn */
+body::-webkit-scrollbar-thumb {
+  background-color: #fc7c27 !important;
+}
+
+/* Thiết lập phần cuối cùng của thanh cuộn */
+body::-webkit-scrollbar-button {
+  display: none !important;
+}
+
+.MuiMultiSectionDigitalClock-root::-webkit-scrollbar {
+  width: 0px;
+}

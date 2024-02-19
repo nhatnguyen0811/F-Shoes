@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Noto+Sans+NKo+Unjoined:wght@600&family=Roboto:ital,wght@1,700&display=swap');
+
+.home .paper-brand {
+  width: 100%;
+  margin-top: 2;
+  padding: 5 !important;
+  background-color: #d7d4d4;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+.name-sale {
+  font-size: 56px !important;
+  font-weight: 1000 !important;
+  color: #f48a42;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 30px !important;
+}
+.brand-filter {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #0074d9;
+  margin: 40px !important;
+}
+
+.brand-filter img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.new-product {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.selling-product {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.about-us {
+  margin-top: 40px;
+}
+
+.text-about-us {
+  font-size: 25px !important;
+  color: #0074d9;
+  font-weight: 700 !important;
+  margin-bottom: 20px !important;
+}
+
+.fShoes {
+  font-size: 20px;
+  font-weight: 1000;
+}
+
+.fshoes-shop {
+  font-size: 20px;
+  font-weight: 1000;
+  color: #0074d9;
+}
+
+.title-banner {
+  font-size: 70px !important;
+  font-weight: 1000 !important;
+  font-weight: bold;
+  text-align: center;
+}
+
+.title-banner-child {
+  text-align: center;
+}
+
+.btn-product {
+  background-color: black !important;
+  color: white !important;
+  font-weight: 700 !important;
+  border-radius: 20px !important;
+  margin-left: 20px !important;
+}
+
+.btn-div-product {
+  text-align: center;
+  padding: 20px !important;
+}
+
+.text-just-in {
+  font-size: 25px !important;
+  font-weight: 700 !important;
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+}
+
+.product {
+  background-color: black !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+.product-home .MuiContainer-root {
+  padding-left: 120px !important;
+  padding-right: 120px !important;
+}
+
+.cart-product-home {
+  max-width: 100%;
+  /* Đảm bảo chiều rộng tối thiểu bằng 100% */
+  overflow-x: auto;
+  /* Bật cuộn ngang khi nội dung vượt quá chiều rộng */
+  white-space: nowrap;
+  /* Ngăn text bị ngắt dòng */
+}
+
+.cart-product-home::-webkit-scrollbar {
+  width: 1px;
+  height: 7px;
+  /* Độ rộng thanh cuộn */
+}
+
+.cart-product-home::-webkit-scrollbar-thumb {
+  background: orange;
+  /* Màu của nút cuộn */
+}
+
+.cart-product-home::-webkit-scrollbar-thumb:hover {
+  background: rgb(234, 186, 97);
+  /* Màu của nút cuộn khi di chuột qua */
+}
+
+.cart-product-home .MuiButtonBase-root {
+  width: 25%;
+  padding: 9px;
+}
+
+.cart-product-home .MuiPaper-root {
+  width: 100%;
+}
+
+.img-hover {
+  transition: transform 0.5s ease-in-out;
+}
+
+.img-hover:hover {
+  transform: scale(1.02);
+}

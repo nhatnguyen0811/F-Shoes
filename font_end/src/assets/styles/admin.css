@@ -1,0 +1,114 @@
+.MuiPaper-root {
+  border-radius: 8px !important;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.03), 0 1px 6px -1px rgba(0, 0, 0, 0.02), 0 2px 4px 0 rgba(0, 0, 0, 0.02) !important
+}
+
+.MuiAppBar-root,
+.MuiDrawer-paper {
+  border-radius: 0 !important;
+}
+
+.MuiMenu-list {
+  padding: 0 !important;
+}
+
+.chip-hoat-dong {
+  border: 1px solid #d9d9d9 !important;
+  color: #389e0d !important;
+  background: #f0ffe2 !important;
+  border-color: #b7eb8f !important;
+}
+
+.chip-khong-hoat-dong {
+  border: 1px solid #d9d9d9 !important;
+  color: #e41627 !important;
+  background: #fff1f0 !important;
+  border-color: #fd9690 !important;
+}
+
+.chip-cho {
+  border: 1px solid #d9d9d9 !important;
+  color: #F2741F !important;
+  background: #f0ffe2 !important;
+  border-color: #f0bf9f !important;
+}
+
+.chip-dang {
+  border: 1px solid #d9d9d9 !important;
+  color: #410bd6 !important;
+  background: #f0ffe2 !important;
+  border-color: #a88fec !important;
+}
+
+/* Đảm bảo bảng rộng bằng chiều rộng của màn hình chứa */
+.tableCss {
+  width: 100% !important;
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+  text-align: center;
+  border-radius: 10px;
+  /* Thêm border-radius ở đây với giá trị 90px */
+  overflow: hidden;
+  box-shadow: 5px 5px 5px rgb(247, 246, 245);
+}
+
+/* Màu nền cho các ô cell tiêu đề */
+.tableCss .MuiTableHead-root .MuiTableRow-root .MuiTableCell-root {
+  /* background-color: #FC7C27 !important; */
+  /* color: #ffffff; */
+  font-weight: 700;
+  font-size: 15px;
+}
+
+/* Đường kẻ ngăn các các cell */
+.tableCss .MuiTableCell-root {
+  flex: 1;
+  min-width: auto;
+  box-sizing: border-box;
+}
+
+/* Màu nền cho ô cell */
+.tableCss th,
+.tableCss td {
+  color: #333;
+  height: 50px;
+}
+
+.tableCss th {
+  background-color: white;
+  color: #333;
+  height: 50px;
+}
+
+/* Khoảng cách */
+.tableCss th,
+.tableCss td {
+  padding: 8px;
+}
+
+/* Viền và đường kẻ */
+.tableCss {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+}
+
+/* Hiệu ứng hover */
+.tableCss tr:hover {
+  background-color: rgba(128, 128, 128, 0.2);
+}
+
+/* Giữ nguyên hình dạng table với bất kỳ màn hình nào */
+.tableCss th,
+.tableCss td {
+  word-wrap: break-word;
+  text-overflow: ellipsis;
+}
+
+.color-cam {
+  color: #FC7C27;
+}
+
+.hidden-scroll-bar::-webkit-scrollbar {
+  width: 0px;
+}

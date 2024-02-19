@@ -1,0 +1,143 @@
+.custom-sidebar {
+  width: 500px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.cart-item {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+  flex-grow: 1;
+}
+
+.cart-item-content {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.cart-item-image {
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+}
+
+.remove-item {
+  position: absolute;
+  top: -10px;
+  right: 5px;
+  cursor: pointer;
+  font-size: 13px;
+  color: red;
+  background: white;
+  padding: 4px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.cart-item-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.price-and-quantity {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.quantity-control input {
+  max-width: 40px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.quantity-control button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 13px;
+  transition: background-color 0.2s;
+}
+
+.quantity-control button:hover {
+  background-color: #0056b3;
+}
+
+.checkout-buttons {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.cart-title {
+  display: flex;
+  align-items: center;
+  padding: 16px 16px 0px;
+}
+
+.cart-title h2 {
+  margin-right: 2px;
+}
+
+.total-payment {
+  margin-top: 10px;
+  font-size: 24px;
+  font-weight: 500;
+  color: #094d25;
+  padding: 0px 16px;
+}
+
+.total-payment span {
+  font-weight: bold;
+  font-size: 26px;
+  color: #f00;
+}
+
+.detail-product .MuiContainer-root {
+  padding-left: 120px !important;
+  padding-right: 120px !important;
+}
+
+.product-cart {
+  max-height: 500px !important;
+  overflow: auto;
+  height: 500px !important;
+  padding: 0px 16px !important;
+}
+
+.product-name-detail-gh {
+  font-size: 15px !important;
+  margin-bottom: 10px;
+}
+
+.price-and-size {
+  font-size: 12px !important;
+}
+
+.price-gh {
+  font-weight: 700 !important;
+}
+
+.end-cart {
+  background-color: rgb(207, 207, 207);
+}
+
+.discount-badge {
+  position: absolute;
+  z-index: 2;
+  top: 15px;
+  left: 15px;
+  color: white;
+  padding: 4px 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.image-gallery-content .image-gallery-slide .image-gallery-image {
+  max-height: calc(100vh - 110px);
+}

@@ -1,0 +1,35 @@
+.hs-user {
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.title-user {
+  margin: 0px 4px !important;
+}
+.img-title-user {
+  padding-left: 40px;
+}
+.tt-img {
+  margin: 2px;
+  color: #999;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.btn-img-us {
+  margin-left: 80px !important;
+  outline: 0 !important;
+  background: #fff !important;
+  color: #555 !important;
+  border: 1px solid rgba(0, 0, 0, 0.09) !important;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.03) !important;
+}
+.img-user .image-container {
+  margin-left: 55px !important;
+}
+.btn-luupf {
+  float: left;
+  color: #f2741f !important;
+  text-decoration: none !important;
+  background-color: rgba(252, 124, 39, 0.04) !important;
+  border: 1px solid #fc7c27 !important;
+}

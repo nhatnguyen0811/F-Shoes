@@ -1,0 +1,50 @@
+.title {
+  font-weight: 700 !important;
+}
+
+.price {
+  text-transform: lowercase;
+  text-decoration: line-through;
+}
+.sale-amount {
+  width: 200px;
+  height: 20px;
+  background: linear-gradient(to right, #ef3713, #ff7f00);
+  color: white;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.buy {
+  text-transform: lowercase;
+}
+
+.price-discount {
+  text-decoration: none;
+  color: red;
+  font-weight: 700;
+}
+
+.products-discount-badge {
+  position: absolute;
+  z-index: 2;
+  top: 5px;
+  left: 5px;
+  color: white;
+  padding: 4px 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.promotion-price {
+  margin-right: 5px !important;
+}
+
+.cart-product-hover {
+  transition: transform 0.3s ease-in-out;
+  border-radius: '10px';
+}
+
+.cart-product-hover:hover {
+  transform: scale(1.03);
+}

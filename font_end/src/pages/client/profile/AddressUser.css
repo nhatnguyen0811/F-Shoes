@@ -1,0 +1,65 @@
+.btn-adr-ac {
+  float: right !important;
+}
+
+.mac-dinh-ac {
+  color: #ee4d2d;
+  border-color: #ee4d2d;
+  padding: 2px 4px;
+  border-radius: 1px;
+  border: 0.5px solid;
+}
+
+.title-ac-name {
+  color: rgba(0, 0, 0, 0.87) !important;
+  font-size: 1rem !important;
+  line-height: 1.5rem !important;
+  font-weight: 700 !important;
+}
+
+.title-ac-ps {
+  font-size: 0.875rem !important;
+  line-height: 1.25rem !important;
+  color: rgba(0, 0, 0, 0.54) !important;
+}
+
+.title-ac-ps1 {
+  font-size: 0.875rem !important;
+  line-height: 1.25rem !important;
+  color: rgba(0, 0, 0, 0.54) !important;
+  margin-bottom: 5px !important;
+}
+
+.btn-xoa-cn,
+.btn-mac-dinh-ad {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  padding: 4px 12px;
+  min-width: 0;
+  white-space: nowrap;
+  cursor: pointer;
+  text-transform: none !important;
+}
+
+.btn-xoa-cn {
+  color: #08f;
+  border: 0;
+  background: none;
+  outline: none;
+  padding: 4px;
+  white-space: nowrap;
+}
+
+.btn-xoa-cn:hover {
+  text-decoration: underline;
+}
+
+.btn-mac-dinh-ad {
+  border: 1px solid rgba(0, 0, 0, 0.26) !important;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.03);
+}
+
+.btn-mac-dinh-ad:hover {
+  background-color: rgba(0, 0, 0, 0.02) !important;
+  color: rgba(0, 0, 0, 0.87) !important;
+}

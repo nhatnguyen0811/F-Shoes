@@ -1,0 +1,13 @@
+.nhanvien .filter .MuiSelect-select {
+  padding-left: 8px;
+  color: #fc7c27;
+  font-weight: 500;
+}
+
+.nhanvien .filter fieldset {
+  border: none !important;
+}
+
+.nhanvien .search-field .MuiInputBase-root:hover fieldset {
+  border-color: #f2741f !important;
+}
